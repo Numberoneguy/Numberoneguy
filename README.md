@@ -1,16 +1,24 @@
-## Hi there 👋
+## About me
+- I am a sophomore student.
+- THE developer of ACTX inspired by a forge mod (*ACT by ATE47*)
 
-<!--
-**Numberoneguy/Numberoneguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Platforms
+[![My Skills](https://skillicons.dev/icons?i=html,css,github,vscode,discord&perline=13)](#)
+<br>
+[![Discord Server](https://img.shields.io/badge/Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jzk8m2NDjQ)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1152693555106689154)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
-Here are some ideas to get you started:
+## Github stats
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=UrBudPenguin&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top languages" />
+  </a>
+  <a href="#">
+    <img src="https://streak-stats.demolab.com/?user=UrBudPenguin&count_private=true&theme=blue-green&title_color=00b3ff" alt="SprintingSnail69's current streak" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
